@@ -3,7 +3,7 @@
 ## 目录
 * [你不懂前端的愁](https://github.com/allenGKC/Blog/issues/1)
 * [Docker 安装配置初探](https://github.com/allenGKC/Blog/issues/2)
-* [《Javascript秘密花园》读书笔记 ](https://github.com/allenGKC/Blog/issues/3)
+* [《Javascript秘密花园》读书笔记](https://github.com/allenGKC/Blog/issues/3)
 * [从Float谈谈BFC](https://github.com/allenGKC/Blog/issues/4)
 * [MacOS中sed使用注意点](https://github.com/allenGKC/Blog/issues/5)
 * [给图片减减肥——webP](https://github.com/allenGKC/Blog/issues/7)
