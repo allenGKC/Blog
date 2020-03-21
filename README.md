@@ -11,7 +11,7 @@ It's my personal blog and thanks for reading.
 * [MacOS中shell的sed命令使用注意点](https://github.com/allenGKC/Blog/issues/5)
 * [MacOS中shell脚本判断目录下是否存在已知后缀名文件的命令](https://github.com/allenGKC/Blog/issues/10)
 
-## Translation
+## Translations
 * [翻译 | webpack2的入门手册](https://github.com/allenGKC/Blog/issues/8)
 * [翻译| JavaScript中的super()是什么含义？](https://github.com/allenGKC/Blog/issues/12)
 
