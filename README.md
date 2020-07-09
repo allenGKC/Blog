@@ -18,6 +18,8 @@ It's my personal blog and thanks for reading.
 
 ## Reading Notes
 * [《Javascript秘密花园》读书笔记](https://github.com/allenGKC/Blog/issues/3)
+* [You-Don't-Know-JS 读书笔记](https://github.com/allenGKC/You-Do-Not-Know-JS-Reading-Note/issues)
+* [Just-Javascript-Reading-Notes](https://github.com/allenGKC/Just-Javascript-Reading-Notes/issues)
 
 ## Entertainment Articles
 * [你不懂前端的愁](https://github.com/allenGKC/Blog/issues/1)
